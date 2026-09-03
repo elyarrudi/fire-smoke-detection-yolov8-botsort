@@ -1,0 +1,20 @@
+# Dataset and training-only files
+dataset/
+train_code/
+train_result/
+train_result_with_pt/
+train_result_with_onnx/
+evaluate_pt.py
+evaluate_onnx.py
+fire_smoke_training/*.pt
+
+# Local media and unrelated model files
+*.mp4
+yolo26n-cls.pt
+
+# Python and local tooling files
+__pycache__/
+*.py[cod]
+.git/
+.gitignore
+.vscode/

@@ -1,0 +1,46 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments and local environment files
+.venv/
+venv/
+env/
+.env
+
+# Jupyter and local development files
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Dataset files (download separately from Kaggle)
+dataset/
+
+# Training and inference logs
+wandb/
+runs/
+
+# Runtime-generated tracker configuration
+custom_botsort.yaml
+
+# Local evaluation scripts
+evaluate_pt.py
+evaluate_onnx.py
+
+# Input videos; sample output videos remain trackable
+1.mp4
+2.mp4
+3.mp4
+
+# Unrelated model file
+yolo26n-cls.pt
+
+# Temporary output files
+
+*.tmp
+*.log
