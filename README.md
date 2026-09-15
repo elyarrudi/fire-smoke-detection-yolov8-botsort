@@ -1,5 +1,12 @@
 # 🔥 Fire and Smoke Detection
 
+## Sample Images
+
+| Sample 1 | Sample 2 |
+| --- | --- |
+| ![Sample 1](1.png) | ![Sample 2](2.png) |
+| ![Sample 3](3.png) | ![Sample 4](4.png) |
+
 A video-based **Fire and Smoke Detection and Tracking System** designed for real-time deployment scenarios, based on **YOLOv8m**, trained on the **D-Fire dataset**, with **BoT-SORT multi-object tracking**, **ONNX Runtime deployment**, configurable confidence thresholds, and a temporal alert mechanism. Real-time performance depends on the input video, processing settings, and available hardware.
 
 The system detects **Fire** and **Smoke** in video streams, assigns persistent tracking IDs to detected objects, and triggers an alert when the same tracked object remains visible for **5 consecutive frames**.
