@@ -1,5 +1,13 @@
 # 🔥 Fire and Smoke Detection
 
+## Sample Output Videos
+
+![Fire and smoke sample output 1](sample1.gif)
+
+![Fire and smoke sample output 2](sample2.gif)
+
+![Fire and smoke sample output 3](sample3.gif)
+
 ## Sample Images
 
 | Sample 1 | Sample 2 |
